@@ -4,6 +4,7 @@ This project was made to help Corner Grocer track what has been bought in three 
 1. Display a list that shows all the items that were purchased and how many times they were purchased in a given day
 2. Display a specifically searched item and how many times it was bought in a given day.
 3. Diplay a histogram version of number 1
+
 This project also assisted me in learning how to integrate two languages together, specifically Python and C++.
 
 **What did you do particularly well?**
